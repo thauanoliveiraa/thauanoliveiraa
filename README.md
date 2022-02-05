@@ -16,8 +16,7 @@
     <img align="center" alt="Th-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <!--<img align="right" alt="@thx0liver with instagram" height="100" width="400" style="border-radius:100px;"
-    src="https://i.gifer.com/Lx4U.gif"> -->
+    <img align="center" alt="Bayern-Munchen" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg">
     <img align="right" height="190" width="190" style="border-radius:100px" alt="@thx0liver with instagram" src="https://c.tenor.com/xpH2ERD2tkkAAAAM/madara-madara-uchiha.gif" /> 
   </div>
   
