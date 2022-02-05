@@ -12,7 +12,7 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@master
-        id: snake-gif
+        id: pacman-gif
         with:
           github_user_name: thauanoliveiraa
           svg_out_path: dist/github-contribution-grid-snake.svg
