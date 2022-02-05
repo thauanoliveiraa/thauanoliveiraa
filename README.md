@@ -27,6 +27,7 @@
    <a href="https://linkedin.com/in/thauan-de-oliveira-ramos-396b66224/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/thx0liver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thauanoliveiracontact2503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <a href = "https://open.spotify.com/playlist/32Ray9wAKRyF1rbMdylVUl?si=b19b66ba9eab468e"><img src="https://img.shields.io/badge/-Spotify-%20256?style=for-the-badge&logo=Spotifyl&logoColor=green" target="_blank"></a> 
 </div>
 
 ## 
