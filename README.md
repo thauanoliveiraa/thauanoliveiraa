@@ -3,7 +3,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/thauanoliveiraa">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=thauanoliveiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanoliveiraa&layout=compact&langs_count=7&theme=dracula"/>
@@ -20,3 +20,4 @@
     <img align="right" alt="@thx0liver with instagram" src="https://c.tenor.com/xpH2ERD2tkkAAAAM/madara-madara-uchiha.gif" width="210" height="210" />
 </div
  
+  ![Snake animation](https://github.com/rafaballerini/thauanoliveiraa/blob/output/github-contribution-grid-snake.svg)
