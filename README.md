@@ -17,7 +17,7 @@
     <img align="center" alt="Th-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" height="190" width="190" style="border-radius:100px" alt="@thx0liver with instagram" src="https://c.tenor.com/xpH2ERD2tkkAAAAM/madara-madara-uchiha.gif" /> 
+    <img align="right" height="190" width="190" style="border-radius:100px" alt="@thx0liver with instagram" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif" /> 
   </div>
   
  ##
