@@ -30,3 +30,5 @@
 </div>
 
 ##
+
+ ![Snake animation](https://github.com/thauanoliveiraa/thauanoliveiraa/blob/output/github-contribution-grid-snake.svg)
