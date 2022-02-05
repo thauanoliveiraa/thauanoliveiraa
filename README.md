@@ -1,4 +1,4 @@
-### Olá, eu sou Thauan Oliveira
+### Hello World 🌎!!! Eu sou Thauan Oliveira 😎
 ##
 <strong> Estudante de Desenvolvimento de Sistemas, atualmente cursando o 2 º semestre 📖🖥️� </strong>
 
