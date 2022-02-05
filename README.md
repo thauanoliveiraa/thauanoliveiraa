@@ -29,6 +29,10 @@
   <a href = "mailto:thauanoliveiracontact2503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
- ![Snake animation](https://github.com/thauanoliveiraa/thauanoliveiraa/blob/output/github-contribution-grid-snake.svg)
+## 
+ 
+<div align="left" style="display: notinline_block">
+    <img align="left" alt="Th-snake" width="4000" src="https://github.com/thauanoliveiraa/thauanoliveiraa/blob/output/github-contribution-grid-snake.svg">
+  </div>
+ 
+ ## 
