@@ -1,6 +1,6 @@
 ### Hello World !!! 🌎
 
-<strong> Eu sou Thauan Oliveira 😎 Estudante de Desenvolvimento de Sistemas, atualmente cursando o 2 º semestre e também sou estudante de Engenharia de Software, atualmente cursando o 1 º senestre 📖🖥️ </strong>
+<strong> Eu sou Thauan Oliveira 😎 Estudante de Desenvolvimento de Sistemas, atualmente cursando o 2 º semestre e também sou estudante de Engenharia de Software, atualmente cursando o 1 º semestre 📖🖥️ </strong>
 
  ##
 
