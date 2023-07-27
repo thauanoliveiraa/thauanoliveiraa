@@ -33,10 +33,6 @@
 </div>
 
 ## 
- 
-<div align="left" style="display: notinline_block">
-    <strong> THE PYTHON 🐍</strong>
-    <img align="left" alt="Th-snake" width="4000" src="https://github.com/thauanoliveiraa/thauanoliveiraa/blob/output/github-contribution-grid-snake.svg">
-  </div>
+
  
  ## 
