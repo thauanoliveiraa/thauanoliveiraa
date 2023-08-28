@@ -1,6 +1,6 @@
 ### Hello World !!! 🌎
 
-<strong> Eu sou Thauan Oliveira 😎 Técnico em Desenvolvimento de Sistemas e também sou estudante de Ciência da Computação, atualmente cursando o 1 º semestre 📖🖥️ </strong>
+<strong> Eu sou Thauan Oliveira 😎 Técnico em Desenvolvimento de Sistemas e também sou estudante de Ciência da Computação, atualmente cursando o 2 º semestre 📖🖥️ </strong>
 
  ##
 
