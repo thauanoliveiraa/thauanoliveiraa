@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/thauanoliveiraa">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=thauanoliveiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanoliveiraa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130px" bg_color=000 src="https://github-readme-stats.vercel.app/api?username=thauanoliveiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff"/>
+  <img height="130px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanoliveiraa&layout=compact&langs_count=20&bg_color=0000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff"/>
 </div>
 
 <div align="left" style="display: inline_block"><br>
@@ -37,3 +37,8 @@
   <a href = "mailto:thauanoliveiracontact2503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href = "https://open.spotify.com/playlist/32Ray9wAKRyF1rbMdylVUl?si=b19b66ba9eab468e"><img src="https://img.shields.io/badge/-Spotify-%20256?style=for-the-badge&logo=Spotifyl&logoColor=green" target="_blank"></a> 
 </div>
+
+## 
+
+ 
+ ## 
