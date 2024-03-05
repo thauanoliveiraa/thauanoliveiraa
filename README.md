@@ -2,6 +2,9 @@
 
 <strong> Eu sou Thauan Oliveira 😎 Técnico em Desenvolvimento de Sistemas e também sou estudante de Ciência da Computação, atualmente cursando o 3 º semestre 📖🖥️ </strong>
 
+<br><br>
+
+<strong> Muitos projetos estarão vindo em breve, aguardem... 📖🖥️ </strong>
  ##
 
 <div align="left">
