@@ -1,6 +1,6 @@
 ### WELCOME!!! 🌎
 
-<strong> Me chamo Thauan Oliveira, técnico em Desenvolvimento de Sistemas, estudante de Ciência da Computação, atualmente cursando o 3 º semestre e pesquisador em Inteligência Artificial com foco em Deep Learning 📖🖥️ </strong>
+<strong> Me chamo Thauan Oliveira, técnico em Desenvolvimento de Sistemas, estudante de Ciência da Computação, atualmente cursando o 3 º semestre, pesquisador e desenvolvedor em Inteligência Artificial com foco em Deep Learning 📖🖥️ </strong>
 
 <br>
 
