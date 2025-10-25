@@ -20,7 +20,7 @@
     <img align="center" alt="Th-PyTorch" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" title="PyTorch">         
     <img align="center" alt="Th-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C">
     <img align="center" alt="Th-Csharp" height="30" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" title="C#">             
-    <img align="center" alt="Th-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
+    <img align="center" alt="Th-Java" height="30" width="40" src="https://drive.google.com/file/d/1tpV264cam3x_QhY7YrI7WTorCVihTK4z/view?usp=sharing" title="Java">
     <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
     <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
     <img align="center" alt="Th-Javascript" height="30" width="26" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" title="Javascript">     
