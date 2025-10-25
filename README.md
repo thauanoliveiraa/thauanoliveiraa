@@ -18,7 +18,7 @@
     <img align="center" alt="Th-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
     <img align="center" alt="Th-Tensorflow" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="Tensorflow">
     <img align="center" alt="Th-PyTorch" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" title="PyTorch">         
-    <img align="center" alt="Th-C" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" title="C">
+    <img align="center" alt="Th-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C">
     <img align="center" alt="Th-Csharp" height="30" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" title="C#">             
     <img align="center" alt="Th-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
     <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
