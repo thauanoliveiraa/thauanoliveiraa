@@ -1,47 +1,158 @@
-### Olá, visitante
+### Olá! Sou Thauan Oliveira, Desenvolvedor Fullstack | Engenheiro e Pesquisador em Inteligência Artificial | Cientista de dados
 
-<strong> Sou Thauan Oliveira, técnico em Desenvolvimento de Sistemas, pós-técnico em Desenvolvimento de Aplicações para Inteligência Artificial e estudante de Ciência da Computação, atualmente cursando o 5 º semestre, pesquisador e desenvolvedor em Inteligência Artificial com foco em Deep Learning, Visão Computacional e Processamento de Linguagem Natural (NLP) 📖🖥️ </strong>
-
+Possuo formação técnica em Desenvolvimento de Sistemas, especialização técnica em Desenvolvimento de Aplicações para Inteligência Artificial e estudante de Ciência da Computação. Atuo com desenvolvimento de software, pesquisa e engenharia de Inteligência Artificial, com interesse em Machine Learning, Deep Learning, LLMs, Visão Computacional, Processamento de Linguagem Natural (NLP) e Ciência de Dados. 📖🖥️
 <br>
-
-<strong> Muitos projetos estarão vindo em breve, aguardem... 📖🖥️ </strong>
- ##
 
 <div align="left">
   <a href="https://github.com/thauanoliveiraa">
-  <img height="130px" bg_color=000 src="https://github-readme-stats.vercel.app/api?username=thauanoliveiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff"/>
-  <img height="130px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanoliveiraa&layout=compact&langs_count=20&bg_color=0000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=thauanoliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=00000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Estatísticas do GitHub"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanoliveiraa&layout=compact&langs_count=10&theme=dracula&bg_color=00000000&border_color=ffffff&title_color=ffffff&text_color=ffffff" alt="Linguagens mais utilizadas"/>
+  </a>
 </div>
 
-<div align="left" style="display: inline_block"><br>
-     <img align="center" alt="Bayern-Munchen" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg" title="FC Bayern Munchen">
-    <img align="center" alt="Th-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-    <img align="center" alt="Th-Tensorflow" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="Tensorflow">
-    <img align="center" alt="Th-PyTorch" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" title="PyTorch">         
-    <img align="center" alt="Th-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C">
-    <img align="center" alt="Th-Csharp" height="30" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" title="C#">             
-    <img align="center" alt="Th-Java" height="30" width="40" src="" title="Java">
-    <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
-    <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
-    <img align="center" alt="Th-Javascript" height="30" width="26" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" title="Javascript">     
-    <img align="center" alt="Th-Git" height="30" width="38" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git">
-    <img align="center" alt="Th-Dart" height="30" width="29" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" title="Dart">    
-    <img align="center" alt="Th-MySQL" height="80" width="55" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="MySQL">        
-    <img align="center" alt="Th-Github" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" title="GitHub">  
-    <img align="right" height="190" width="190" style="border-radius:60px" alt="@thx0liver with instagram" src="https://i.pinimg.com/originals/47/78/8d/47788d894847e5e085144f0305f52364.gif" /> 
-  </div>
-  
- ##
+##
 
- <div><br>
-  <strong> Contact me with : </strong> </h1><br><br>
-   <a href="https://linkedin.com/in/thauan-de-oliveira-ramos-396b66224/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/thx0liver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thauanoliveiracontact2503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-    <a href = "https://open.spotify.com/playlist/32Ray9wAKRyF1rbMdylVUl?si=b19b66ba9eab468e"><img src="https://img.shields.io/badge/-Spotify-%20256?style=for-the-badge&logo=Spotifyl&logoColor=green" target="_blank"></a> 
+### 🧠 Inteligência Artificial e Ciência de Dados
+
+<div align="left">
+  <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img align="center" alt="TensorFlow" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
+  <img align="center" alt="PyTorch" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
+  <img align="center" alt="Scikit-learn" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn"/>
+  <img align="center" alt="NumPy" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+  <img align="center" alt="Pandas" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+  <img align="center" alt="OpenCV" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>
+  <img align="center" alt="Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook"/>
+  <img align="center" alt="Google Colab" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" title="Google Colab"/>
 </div>
 
-## 
 
- 
- ## 
+### 💻 Desenvolvimento de Software
+
+<div align="left">
+  <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img align="center" alt="C Sharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img align="center" alt="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img align="center" alt="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img align="center" alt="Dart" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart"/>
+  <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img align="center" alt="Angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
+  <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img align="center" alt="FastAPI" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/>
+  <img align="center" alt="Flask" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask"/>
+  <img align="center" alt="Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django"/>
+</div>
+
+### 🗄️ Bancos de Dados
+
+<div align="left">
+  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img align="center" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+</div>
+
+### ⚙️ Ferramentas e Tecnologias
+
+<div align="left">
+  <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img align="center" alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img align="center" alt="Azure" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure"/>
+  <img align="center" alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
+  <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
+  <img align="center" alt="Anaconda" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda"/>
+</div>
+
+<br>
+
+**Áreas de interesse:** Machine Learning · Deep Learning · LLMs · IA Generativa · NLP · Visão Computacional · Ciência de Dados · Detecção de Anomalias · Clustering · Engenharia de Prompts · Agentes de IA.
+<br>
+
+##
+
+### 🏆 Certificações, Cursos e Eventos
+
+<details open>
+  <summary><strong>🤖 Inteligência Artificial e Machine Learning</strong></summary>
+
+* Machine Learning
+* Redes Neurais Artificiais
+* Algoritmos de SVM (Support Vector Machine)
+* Algoritmos Genéticos
+* Métodos de Machine Learning Bioinspirados
+* Inteligência Artificial - Alura e Google
+
+</details>
+
+<details open>
+  <summary><strong>⚡ Computação de Alto Desempenho (HPC)</strong></summary>
+
+* Workshop Técnico sobre Programação Paralela para HPC - OpenMP e MPI
+* Workshop Técnico: Programação GPU Aplicada a Problemas Industriais
+* Workshop Técnico: Interfacing Fortran and Python using ctypes, cffi and Cython
+* International Congress in Geophysics and High-Performance Computing (ICGHPC22)
+
+</details>
+
+<details>
+  <summary><strong>📊 Ciência de Dados e Business Intelligence</strong></summary>
+
+* Análise de Dados com SQL e NoSQL
+* Fundamentos Teóricos sobre ETL
+* Limpeza e Transformação de Dados
+* Coleta e Extração de Dados com Power BI
+* Fundamentos de Business Intelligence (BI)
+* Fundamentos de BI - KPIs e Métricas
+* Criação de Relatórios de Vendas com Power BI
+
+
+</details>
+
+<details>
+  <summary><strong>🔬 Pesquisa Científica e Eventos</strong></summary>
+
+* X Seminário de Avaliação de Pesquisa Científica e Tecnológica (SAPCT) e VIII Workshop ICPAD — 2025
+* IX Seminário de Avaliação de Pesquisa Científica e Tecnológica (SAPCT) e VIII Workshop ICPAD — 2024
+* VIII Seminário de Avaliação de Pesquisa Científica e Tecnológica (SAPCT) e VII Workshop ICPAD
+* The Developers Conference 2024 — Summit IA
+
+</details>
+
+<details>
+  <summary><strong>🧩 Outras Competências</strong></summary>
+
+* Workshop Técnico: Introdução a Blockchain
+* Workshop Técnico: Introdução a ROS — Teoria e Prática
+* Gestão Ágil de Projetos
+</details>
+
+##
+
+<div align="left">
+  <img align="center" alt="Bayern de Munique" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg" title="FC Bayern München"/>
+  <img align="right" height="190" width="190" alt="GIF pessoal" src="https://i.pinimg.com/originals/47/78/8d/47788d894847e5e085144f0305f52364.gif"/>
+</div>
+
+##
+
+### 📬 Entre em contato
+
+<div align="left">
+  <a href="https://linkedin.com/in/thauan-de-oliveira-ramos-396b66224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/thx0liver" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:thauanoliveiracontact2503@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/32Ray9wAKRyF1rbMdylVUl?si=b19b66ba9eab468e" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+</div>
+
+##
