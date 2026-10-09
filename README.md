@@ -1,6 +1,6 @@
 ### Olá! Sou Thauan Oliveira, Desenvolvedor Fullstack | Engenheiro e Pesquisador em Inteligência Artificial | Cientista de dados
 
-Possuo formação técnica em Desenvolvimento de Sistemas, especialização técnica em Desenvolvimento de Aplicações para Inteligência Artificial e estudante de Ciência da Computação. Atuo com desenvolvimento de software, pesquisa e engenharia de Inteligência Artificial, com interesse em Machine Learning, Deep Learning, LLMs, Visão Computacional, Processamento de Linguagem Natural (NLP) e Ciência de Dados. 📖🖥️
+Possuo formação técnica em Desenvolvimento de Sistemas, especialização técnica em Desenvolvimento de Aplicações para Inteligência Artificial e graduação em andamento em Ciência da Computação. Atuo com desenvolvimento de software, pesquisa e engenharia de Inteligência Artificial, com interesse em Machine Learning, Deep Learning, LLMs, Visão Computacional, Processamento de Linguagem Natural (NLP) e Ciência de Dados. 📖🖥️
 <br>
 
 <div align="left">
